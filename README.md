@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👩 I'm Alejandra Avilan 👋
 
-<!--
-**avilanac/avilanac** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a software developer passionate about technology, big data, and continuous learning. 
+🔭 Currently, I am working on projects that combine my skills in Python🐍 and Machine Learning, as well as database management.
 
-Here are some ideas to get you started:
+##My Skills
+🐘 PHP
+🛢️ SQL 
+🖌 HTML - CSS
+🖼 Bootstrap
+🐍 Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to explore my GitHub profile and contact me if you have any questions or comments. 
+I'm excited to get to know you. Learning in a community is the best.
+
