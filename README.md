@@ -1,4 +1,4 @@
-### Hi 👋, My name is Alejandra Avilan 👩‍💻
+### Hi 👋 my name is Alejandra Avilan 👩‍💻
 I am a software developer passionate about technology, big data and continuous learning. 
 
 🚀 Currently, I am working on projects that combine my skills in Python🐍 and Machine Learning, as well as database management.
