@@ -1,20 +1,21 @@
 ### Hi 👋, I'm Alejandra Avilan 👩‍💻
 I am a software developer passionate about technology, big data, and continuous learning. 
+
 🚀 Currently, I am working on projects that combine my skills in Python🐍 and Machine Learning, as well as database management.
 
 My Skills:
 
-🐘 PHP
+- 🐘 PHP
 
-🐍 Python
+- 🐍 Python
 
-🛢️ SQL 
+- 🛢️ SQL 
 
-🖌 HTML - CSS
+- 🖌 HTML - CSS
 
-🖼 Bootstrap
+- 🖼 Bootstrap
 
-🟨 JavaScript
+- 🟨 JavaScript
 
 
 Feel free to explore my GitHub profile and contact me if you have any questions or comments. 
