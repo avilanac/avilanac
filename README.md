@@ -17,6 +17,8 @@ My Skills:
 
 - 🟨 JavaScript
 
+- 📅 Scrum -Kanban
+
 
 Feel free to explore my GitHub profile and contact me if you have any questions or comments. 
 I'm excited to get to know you. Learning in a community is the best.
