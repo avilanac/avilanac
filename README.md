@@ -1,26 +1,22 @@
-### Hi 👋 my name is Alejandra Avilan 👩‍💻
-I am a software developer passionate about technology, big data and continuous learning. 
+# Hello, World! 👋
 
-🚀 Currently, I am working on projects that combine my skills in Python🐍 and Machine Learning, as well as database management.
+I'm [Alejandra Avilan] 👩‍💻, a software developer passionate about technology, big data and continuous learning.
 
-My Skills:
+## 🔧 Tech Stack:
 
-- 🐘 PHP
+- [🐘PHP - 🐍Python - 🟨JavaScript - 🖌 HTML/CSS - 🖼 Bootstrap]
+- [🛢️ SQL - MySQL - PostgreSQL - SQL Server]
+- [ ☁ Firebase ]
+- 📅 Scrum - Kanban
+- **Tools:** [VS Code - Figma - Adobe XD - Excel - Google SpreandSheets - Looker Studio - Draw.io - Trello]
 
-- 🐍 Python
+## 🌱 Currently Learning:
 
-- 🛢️ SQL 
+Exploring [C# and Dart] to enhance my coding arsenal 🚀 and learning Database Management with GCP ☁.
+I am working on projects that combine my skills in Python🐍 and Machine Learning.
 
-- 🖌 HTML - CSS
-
-- 🖼 Bootstrap
-
-- 🟨 JavaScript
-
-- 📅 Scrum -Kanban
-
-
+## 📬 Let's Connect:
 Feel free to explore my GitHub profile and contact me if you have any questions or comments. 
-I'm excited to get to know you. Learning in a community is the best.
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandraavilancasta%C3%B1o/)
 
 
