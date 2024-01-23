@@ -16,7 +16,7 @@ I'm [Alejandra Avilan] 👩‍💻, a software developer passionate about techno
 Exploring [C# and Dart] to enhance my coding arsenal 🚀 and learning Database Management with [GCP ☁].  
 I am working on projects that combine my skills in Python🐍 and Machine Learning.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilanac&layout=pie)](https://github.com/anuraghazra/github-readme-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avilanac&show_icons=true&theme=transparent) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilanac&layout=compact) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=avilanac&show_icons=true&theme=transparent) 
 
 ## 📬 Let's Connect:
 Feel free to explore my GitHub profile and contact me if you have any questions or comments.  
