@@ -13,13 +13,15 @@ I'm [Alejandra Avilan] 👩‍💻, a software developer passionate about techno
 > <img src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" alt="Visual Studio Code" title="Visual Studio Code" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" alt="IntelliJ" title="IntelliJ" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/192108895-20dc3343-43e3-4a54-a90e-13a4abbc57b9.png" alt="Android Studio" title="Android Studio" width="50" height="50"> <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" title="Jupyter Notebook" width="50" height="50">
 
 > [![My Skills](https://skillicons.dev/icons?i=figma,xd)](https://skillicons.dev)
-> - [📅 Scrum - Kanban]
-   
-- [Excel - Google SpreandSheets - Looker Studio - Draw.io - Trello]
+
+> ![exce](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white) [![Google Spreadsheets](https://img.shields.io/badge/Google%20Spreadsheets-0F9D58?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets) [![Looker Studio](https://img.shields.io/badge/Looker%20Studio-0D96F6?style=for-the-badge&logo=looker&logoColor=white)](https://looker.com/)
+
+> [![Draw.io](https://img.shields.io/badge/Draw.io-F00000?style=for-the-badge&logo=dart&logoColor=white)](https://app.diagrams.net/) [![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
+
 
 ## 🌱 Currently Learning:
 
-Exploring [C# and Dart] to enhance my coding arsenal 🚀 and learning Database Management with [GCP ☁].  
+Exploring <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="c#" title="c#" width="25" height="25"> and <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="dart" title="dart" width="25" height="25"> to enhance my coding arsenal 🚀 and learning Database Management with <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP" width="25" height="25">.  
 I am working on projects that combine my skills in Python🐍 and Machine Learning.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilanac&layout=compact) 
