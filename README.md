@@ -19,8 +19,10 @@ I am working on projects that combine my skills in Python🐍 and Machine Learni
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilanac&layout=compact) 
 
 ## 📬 Let's Connect:
-Feel free to explore my GitHub profile and contact me if you have any questions or comments.  
-I'm excited to get to know you. Learning in a community is the best.
+
+Feel free to explore my GitHub profile and contact me if you have any questions or comments. I'm excited to get to know you. Learning in a community is the best.  
+
+[![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avilancastanoa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandraavilancasta%C3%B1o/)
 
 Visite my [![Wiki](https://img.shields.io/badge/-Wiki-brightgreen?style=flat-square&logo=wikipedia)](https://github.com/avilanac/DataJourney/wiki)
