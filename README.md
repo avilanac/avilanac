@@ -23,4 +23,5 @@ Feel free to explore my GitHub profile and contact me if you have any questions 
 I'm excited to get to know you. Learning in a community is the best.
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandraavilancasta%C3%B1o/)
 
-Visite my [![Wiki](https://img.shields.io/badge/-Wiki-brightgreen?style=flat-square&logo=wikipedia)]([https://tu-enlace-a-la-wiki-aqui](https://github.com/avilanac/DataJourney/wiki)){:target="_blank"}
+Visite my [![Wiki](https://img.shields.io/badge/-Wiki-brightgreen?style=flat-square&logo=wikipedia)](https://github.com/avilanac/DataJourney/wiki){:target="_blank"}
+
