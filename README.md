@@ -22,14 +22,14 @@ I'm [Alejandra Avilan] 👩‍💻, a software developer passionate about techno
 ## 🌱 Currently Learning:
 
 Exploring <img src="https://user-images.githubusercontent.com/25181517/121405384-444d7300-c95d-11eb-959f-913020d3bf90.png" alt="c#" title="c#" width="25" height="25"> and <img src="https://user-images.githubusercontent.com/25181517/186150304-1568ffdf-4c62-4bdc-9cf1-8d8efcea7c5b.png" alt="dart" title="dart" width="25" height="25"> to enhance my coding arsenal 🚀 and learning Database Management with <img src="https://user-images.githubusercontent.com/25181517/183911547-990692bc-8411-4878-99a0-43506cdb69cf.png" alt="GCP" title="GCP" width="25" height="25">.  
-I am working on projects that combine my skills in Python🐍 and Machine Learning.
+I am working on projects that combine my skills in <img src="https://user-images.githubusercontent.com/25181517/183423507-c056a6f9-1ba8-4312-a350-19bcbc5a8697.png" alt="py" title="py" width="25" height="25"> and Machine Learning.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=avilanac&layout=compact) 
 
 ## 📬 Let's Connect:
 
-Feel free to explore my GitHub profile and contact me if you have any questions or comments. I'm excited to get to know you. Learning in a community is the best.  
-
+Feel free to explore my GitHub profile and contact me if you have any questions or comments. I'm excited to get to know you.  
+Learning in a community is the best.  
 [![gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:avilancastanoa@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/alejandraavilancasta%C3%B1o/)
 
