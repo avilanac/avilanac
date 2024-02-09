@@ -1,6 +1,8 @@
+![Banner](https://github.com/avilanac/avilanac/blob/main/img/sky.png)
+
 # Hello, World! 👋
 
-I'm [Alejandra Avilan] 👩‍💻, a software developer passionate about technology, big data and continuous learning.
+I'm [Alejandra Avilan] 👩‍💻, a software developer passionate about Python, Big Data and continuous learning.
 
 ## 🔧 Tech Stack:
 > [![My Skills](https://skillicons.dev/icons?i=php,py,js,html,css,bootstrap)](https://skillicons.dev)
